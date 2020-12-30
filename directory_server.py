@@ -83,7 +83,7 @@ button_ss = tk.Button(root,
                                                     
 
 root.title("Directory Hosting")
-root.geometry("350x150")
+root.geometry("600x250")
 
 icon = PhotoImage(file = "icon.png")
 root.iconphoto(False, icon)
